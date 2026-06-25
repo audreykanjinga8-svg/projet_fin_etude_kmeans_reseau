@@ -1,0 +1,4 @@
+,accuracy
+K-Means (non supervisé),0.833
+Random Forest,0.9859154929577465
+XGBoost,0.9859154929577465

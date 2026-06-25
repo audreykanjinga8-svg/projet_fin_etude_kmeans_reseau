@@ -1,0 +1,4 @@
+ARI=0.743
+Accuracy=0.833
+FP=6
+FN=0

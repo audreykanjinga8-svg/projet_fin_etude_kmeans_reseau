@@ -1,0 +1,14 @@
+{
+  "0": {
+    "regime": "Erreur de configuration",
+    "code": 2
+  },
+  "1": {
+    "regime": "Normal",
+    "code": 0
+  },
+  "2": {
+    "regime": "Perte de performance",
+    "code": 1
+  }
+}
