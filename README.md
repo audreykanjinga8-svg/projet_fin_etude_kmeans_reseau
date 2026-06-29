@@ -74,7 +74,7 @@ Le détail de chaque détection est aussi écrit dans src/detect_anomalie.log. P
 
 ## Reproduire les trois régimes pour tester
 
-Les anomalies sont injectées manuellement dans les nœuds GNS3. D'abord, sur le nœud serveur (datacenter), lancer un récepteur :
+Les anomalies sont injectées automatiquement dans les nœuds GNS3. D'abord, sur le nœud serveur (datacenter), lancer un récepteur :
 
    while true; do nc -l -p 9000 >/dev/null 2>&1; done
 
