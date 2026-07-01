@@ -108,6 +108,24 @@ Le fichier config.py permet de régler :
 - FENETRE_SEC : taille de la fenêtre temporelle
 - K : nombre de clusters
 - ENCODAGE : latin 1
+## Comparaison avec les autres algorithmes
+
+Dans le cadre de ce projet, plusieurs algorithmes ont été testés afin de comparer leurs performances sur la détection d’anomalies réseau.
+
+XGBoost (supervisé) : obtient les meilleurs résultats avec une accuracy proche de 0,99. Cependant, il nécessite des labels pour l’apprentissage, ce qui le rend moins adapté à un environnement réel de supervision réseau en temps réel où les anomalies ne sont pas toujours connues à l’avance.
+Isolation Forest (non supervisé) : bien qu’il soit adapté à la détection d’anomalies, il donne de très mauvais résultats sur ce dataset (accuracy autour de 0,29). Le modèle est trop sensible et suppose que les anomalies sont rares, ce qui n’est pas toujours le cas dans les données réseau simulées.
+Approche Ensemble (Voting) : permet d’améliorer la robustesse globale en combinant plusieurs modèles, mais reste plus complexe à déployer et moins interprétable en production.
+
+Pourquoi K-Means
+
+K-Means a été retenu comme modèle principal pour plusieurs raisons :
+
+il est non supervisé, donc adapté à un environnement réel où les labels ne sont pas disponibles en temps réel
+il est simple et rapide, ce qui permet une exécution en temps réel sur des fenêtres de 5 secondes
+il offre des résultats stables et interprétables sur les trois régimes définis
+il permet une bonne séparation des comportements réseau après agrégation en features
+
+Même s’il n’atteint pas les performances des modèles supervisés comme XGBoost, il représente un meilleur compromis entre performance, simplicité et déploiement en production.
 
 ## Points importants
 
