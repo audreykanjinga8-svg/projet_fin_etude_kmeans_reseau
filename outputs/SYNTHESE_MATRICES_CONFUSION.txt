@@ -1,0 +1,68 @@
+======================================================================
+SYNTHÈSE COMPARATIVE - DÉTECTION D'ANOMALIES RÉSEAU
+======================================================================
+
+📊 RÉSUMÉ DES MATRICES DE CONFUSION
+----------------------------------------------------------------------
+
+
+🔹 XGBoost
+----------------------------------------
+
+                                Pred Normal  Pred Perte de performance  Pred Erreur de configuration
+Actual Normal                            79                          0                             3
+Actual Perte de performance               0                         63                             1
+Actual Erreur de configuration            0                          0                           138
+
+   Accuracy: 0.9859 (98.59%)
+
+🔹 Isolation Forest
+----------------------------------------
+
+                 Pred Normal  Pred Anomalie
+Actual Normal            232             41
+Actual Anomalie          630             43
+
+   Accuracy: 0.2907 (29.07%)
+
+🔹 Ensemble (Voting)
+----------------------------------------
+
+                                Pred Normal  Pred Perte de performance  Pred Erreur de configuration
+Actual Normal                           236                         33                             4
+Actual Perte de performance              93                        117                             2
+Actual Erreur de configuration            0                          0                           461
+
+   Accuracy: 0.8605 (86.05%)
+
+======================================================================
+📈 COMPARAISON COMPLÈTE (Ensemble Voting)
+----------------------------------------------------------------------
+
+       Algorithme  Accuracy  Precision   Recall  F1-Score
+          K-Means  0.832981   0.784313 0.770544  0.771564
+          XGBoost  0.994715   0.996423 0.993544  0.994954
+Ensemble (Voting)  0.860465   0.828159 0.805452  0.807999
+
+
+🏆 MEILLEUR ACCURACY  : XGBoost              (0.9947)
+🏆 MEILLEUR F1-SCORE  : XGBoost              (0.9950)
+
+======================================================================
+📌 RECOMMANDATIONS
+----------------------------------------------------------------------
+
+1. XGBoost: Meilleur accuracy (99.47%) - SUPERVISÉ (utilise labels)
+   → Borne supérieure, mais requiert étiquetage.
+   
+2. K-Means: Accuracy 83.30% - NON SUPERVISÉ (clustering)
+   → Production, pas besoin d'étiquetage.
+   
+3. Ensemble (Voting): Accuracy 86.05%
+   → Approche robuste combinant trois algorithmes.
+   
+4. Isolation Forest: Accuracy 29.07% - NON ADAPTÉ
+   → ~49% du trafic est "anormal" (pas d'anomalies rares).
+   → Utile pour outliers purs, pas pour classification.
+
+✅ RECOMMANDÉ EN PRODUCTION: K-Means (non supervisé) + Ensemble (confirmation)

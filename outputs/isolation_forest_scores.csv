@@ -1,0 +1,947 @@
+true_label,true_binary,predicted,anomaly_score,is_anomaly
+Erreur de configuration,Anomalie,Normal,-0.42046789380264254,0
+Erreur de configuration,Anomalie,Normal,-0.39016698928191096,0
+Erreur de configuration,Anomalie,Normal,-0.42332315582761215,0
+Erreur de configuration,Anomalie,Normal,-0.3870454020880821,0
+Erreur de configuration,Anomalie,Normal,-0.4128195501831706,0
+Erreur de configuration,Anomalie,Normal,-0.39016698928191096,0
+Erreur de configuration,Anomalie,Normal,-0.40331308054274284,0
+Erreur de configuration,Anomalie,Normal,-0.41017189246433367,0
+Erreur de configuration,Anomalie,Normal,-0.40217380465107894,0
+Erreur de configuration,Anomalie,Normal,-0.41017189246433367,0
+Erreur de configuration,Anomalie,Normal,-0.4322617509730974,0
+Erreur de configuration,Anomalie,Normal,-0.4505784509517082,0
+Erreur de configuration,Anomalie,Normal,-0.3673031172205639,0
+Erreur de configuration,Anomalie,Normal,-0.3793564426482699,0
+Erreur de configuration,Anomalie,Normal,-0.4250472969566613,0
+Erreur de configuration,Anomalie,Normal,-0.39250886215914577,0
+Erreur de configuration,Anomalie,Normal,-0.3972561051105434,0
+Erreur de configuration,Anomalie,Normal,-0.39283299845724523,0
+Erreur de configuration,Anomalie,Normal,-0.3467333302743256,0
+Erreur de configuration,Anomalie,Normal,-0.3950151164937442,0
+Erreur de configuration,Anomalie,Normal,-0.3864994776421624,0
+Erreur de configuration,Anomalie,Normal,-0.39469255837993533,0
+Erreur de configuration,Anomalie,Normal,-0.3467333302743256,0
+Erreur de configuration,Anomalie,Normal,-0.36007913660907964,0
+Erreur de configuration,Anomalie,Normal,-0.3552280577388077,0
+Erreur de configuration,Anomalie,Normal,-0.35197505898238013,0
+Erreur de configuration,Anomalie,Normal,-0.3631102584001236,0
+Erreur de configuration,Anomalie,Normal,-0.3814700385101034,0
+Erreur de configuration,Anomalie,Normal,-0.34829694730582395,0
+Erreur de configuration,Anomalie,Normal,-0.40333828924117565,0
+Erreur de configuration,Anomalie,Normal,-0.3723875336518674,0
+Erreur de configuration,Anomalie,Normal,-0.34790518519532554,0
+Erreur de configuration,Anomalie,Normal,-0.38372352443170293,0
+Erreur de configuration,Anomalie,Normal,-0.40557262981439285,0
+Erreur de configuration,Anomalie,Anomalie,-0.5461758318950335,1
+Erreur de configuration,Anomalie,Normal,-0.4782256532280833,0
+Erreur de configuration,Anomalie,Normal,-0.3738478203623404,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.33989300205049355,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.34631392053443355,0
+Erreur de configuration,Anomalie,Normal,-0.3490207514867674,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.3792833872445811,0
+Erreur de configuration,Anomalie,Normal,-0.39223260387431713,0
+Erreur de configuration,Anomalie,Normal,-0.34625999823351095,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3508506036955795,0
+Erreur de configuration,Anomalie,Normal,-0.33851296977688866,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3642413002475129,0
+Erreur de configuration,Anomalie,Normal,-0.354040058728243,0
+Erreur de configuration,Anomalie,Normal,-0.348140773502597,0
+Erreur de configuration,Anomalie,Normal,-0.369292376942268,0
+Erreur de configuration,Anomalie,Normal,-0.35637332005443606,0
+Erreur de configuration,Anomalie,Normal,-0.3728155225059028,0
+Erreur de configuration,Anomalie,Normal,-0.4346856831424238,0
+Erreur de configuration,Anomalie,Normal,-0.4008533189104346,0
+Erreur de configuration,Anomalie,Normal,-0.3778936329250516,0
+Erreur de configuration,Anomalie,Normal,-0.41268260116192074,0
+Erreur de configuration,Anomalie,Normal,-0.40025992870305094,0
+Erreur de configuration,Anomalie,Anomalie,-0.5461758318950335,1
+Erreur de configuration,Anomalie,Normal,-0.4062992149331155,0
+Erreur de configuration,Anomalie,Normal,-0.34126307999990324,0
+Erreur de configuration,Anomalie,Normal,-0.34631392053443355,0
+Erreur de configuration,Anomalie,Normal,-0.3854488342016253,0
+Erreur de configuration,Anomalie,Normal,-0.37448058748288804,0
+Erreur de configuration,Anomalie,Normal,-0.3790243560511839,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.3452139925829185,0
+Erreur de configuration,Anomalie,Normal,-0.35192331628079504,0
+Erreur de configuration,Anomalie,Normal,-0.33851296977688866,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.35211253998185116,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.3526522474206401,0
+Erreur de configuration,Anomalie,Normal,-0.349982043350287,0
+Erreur de configuration,Anomalie,Normal,-0.3665361626699234,0
+Erreur de configuration,Anomalie,Normal,-0.3814328127943583,0
+Erreur de configuration,Anomalie,Normal,-0.3978999192685929,0
+Erreur de configuration,Anomalie,Normal,-0.37375578251033376,0
+Erreur de configuration,Anomalie,Normal,-0.35254997118396064,0
+Erreur de configuration,Anomalie,Normal,-0.3510648510105853,0
+Erreur de configuration,Anomalie,Normal,-0.4021603251658744,0
+Erreur de configuration,Anomalie,Normal,-0.3646640459311598,0
+Erreur de configuration,Anomalie,Normal,-0.37042310571049764,0
+Erreur de configuration,Anomalie,Normal,-0.3533347219313984,0
+Erreur de configuration,Anomalie,Normal,-0.4592860804989946,0
+Erreur de configuration,Anomalie,Anomalie,-0.5840420733542585,1
+Erreur de configuration,Anomalie,Normal,-0.40171889756399487,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.34655795689715263,0
+Erreur de configuration,Anomalie,Normal,-0.3430047637102031,0
+Erreur de configuration,Anomalie,Normal,-0.34655795689715263,0
+Erreur de configuration,Anomalie,Normal,-0.34147689738952325,0
+Erreur de configuration,Anomalie,Normal,-0.34666805583826577,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.35113513137371855,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3870913520073125,0
+Erreur de configuration,Anomalie,Normal,-0.387871044477194,0
+Erreur de configuration,Anomalie,Normal,-0.34171026806039506,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3458130621346835,0
+Erreur de configuration,Anomalie,Normal,-0.4073020107964187,0
+Erreur de configuration,Anomalie,Normal,-0.36203759015776665,0
+Erreur de configuration,Anomalie,Normal,-0.3682723371270843,0
+Erreur de configuration,Anomalie,Normal,-0.37257985413064576,0
+Erreur de configuration,Anomalie,Normal,-0.39711326875513936,0
+Erreur de configuration,Anomalie,Normal,-0.3797728739896586,0
+Erreur de configuration,Anomalie,Normal,-0.43743405288094184,0
+Erreur de configuration,Anomalie,Normal,-0.3770601873791694,0
+Erreur de configuration,Anomalie,Normal,-0.377189332898757,0
+Erreur de configuration,Anomalie,Normal,-0.42785688814606093,0
+Erreur de configuration,Anomalie,Normal,-0.39100032831235265,0
+Erreur de configuration,Anomalie,Anomalie,-0.5461758318950335,1
+Erreur de configuration,Anomalie,Normal,-0.41954251011896926,0
+Erreur de configuration,Anomalie,Normal,-0.3413109689961362,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.3397837015839723,0
+Erreur de configuration,Anomalie,Normal,-0.35062354423989545,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3412459369349883,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3959414043378033,0
+Erreur de configuration,Anomalie,Normal,-0.393062755979315,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.3413109689961362,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.3490207514867674,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.33851296977688866,0
+Erreur de configuration,Anomalie,Normal,-0.35424882979319916,0
+Erreur de configuration,Anomalie,Normal,-0.388136121636303,0
+Erreur de configuration,Anomalie,Normal,-0.3947628952745471,0
+Erreur de configuration,Anomalie,Normal,-0.4079106390927699,0
+Erreur de configuration,Anomalie,Normal,-0.36295049997216905,0
+Erreur de configuration,Anomalie,Normal,-0.4088242638016776,0
+Erreur de configuration,Anomalie,Normal,-0.3637190583204129,0
+Erreur de configuration,Anomalie,Normal,-0.3920295818084267,0
+Erreur de configuration,Anomalie,Normal,-0.40177316859506557,0
+Erreur de configuration,Anomalie,Normal,-0.3907396838549436,0
+Erreur de configuration,Anomalie,Normal,-0.3659136537668051,0
+Erreur de configuration,Anomalie,Normal,-0.39716787081056665,0
+Erreur de configuration,Anomalie,Normal,-0.39142622159025625,0
+Erreur de configuration,Anomalie,Anomalie,-0.5253016241251114,1
+Erreur de configuration,Anomalie,Normal,-0.423000851756481,0
+Erreur de configuration,Anomalie,Normal,-0.3397837015839723,0
+Erreur de configuration,Anomalie,Normal,-0.389212281823104,0
+Erreur de configuration,Anomalie,Normal,-0.40735911848547446,0
+Erreur de configuration,Anomalie,Normal,-0.38558159865145497,0
+Erreur de configuration,Anomalie,Normal,-0.34126307999990324,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3412459369349883,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3544960103848889,0
+Erreur de configuration,Anomalie,Normal,-0.34655795689715263,0
+Erreur de configuration,Anomalie,Normal,-0.3790173972043255,0
+Erreur de configuration,Anomalie,Normal,-0.38125831340946137,0
+Erreur de configuration,Anomalie,Normal,-0.401248086957303,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.35211253998185116,0
+Erreur de configuration,Anomalie,Normal,-0.349982043350287,0
+Erreur de configuration,Anomalie,Normal,-0.363648521636677,0
+Erreur de configuration,Anomalie,Normal,-0.3481154608397824,0
+Erreur de configuration,Anomalie,Normal,-0.36073380933524213,0
+Erreur de configuration,Anomalie,Normal,-0.38036525878462,0
+Erreur de configuration,Anomalie,Normal,-0.3532753859255665,0
+Erreur de configuration,Anomalie,Normal,-0.3472732377385689,0
+Erreur de configuration,Anomalie,Normal,-0.4233743814049685,0
+Erreur de configuration,Anomalie,Normal,-0.3498585895563021,0
+Erreur de configuration,Anomalie,Normal,-0.3541931147626484,0
+Erreur de configuration,Anomalie,Normal,-0.4293774994688472,0
+Erreur de configuration,Anomalie,Normal,-0.47382477516299976,0
+Erreur de configuration,Anomalie,Anomalie,-0.5586167806664843,1
+Erreur de configuration,Anomalie,Normal,-0.43386987544380134,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3430047637102031,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.39469255837993533,0
+Erreur de configuration,Anomalie,Normal,-0.37364559544840004,0
+Erreur de configuration,Anomalie,Normal,-0.3958539224715187,0
+Erreur de configuration,Anomalie,Normal,-0.3520746383054866,0
+Erreur de configuration,Anomalie,Normal,-0.35470219599511593,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.3758522390326221,0
+Erreur de configuration,Anomalie,Normal,-0.3472732377385689,0
+Erreur de configuration,Anomalie,Normal,-0.3611960125232483,0
+Erreur de configuration,Anomalie,Normal,-0.3634464035196163,0
+Erreur de configuration,Anomalie,Normal,-0.40708675290383206,0
+Erreur de configuration,Anomalie,Normal,-0.3742317539679043,0
+Erreur de configuration,Anomalie,Normal,-0.3706036152736633,0
+Erreur de configuration,Anomalie,Normal,-0.3799692537659652,0
+Erreur de configuration,Anomalie,Normal,-0.3834716029223356,0
+Erreur de configuration,Anomalie,Normal,-0.40799484829715565,0
+Erreur de configuration,Anomalie,Normal,-0.38952813270368075,0
+Erreur de configuration,Anomalie,Normal,-0.4345433105171854,0
+Erreur de configuration,Anomalie,Normal,-0.434442499419261,0
+Erreur de configuration,Anomalie,Normal,-0.38638094676786067,0
+Erreur de configuration,Anomalie,Normal,-0.3908286375267737,0
+Erreur de configuration,Anomalie,Normal,-0.34637925931876573,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.34631392053443355,0
+Erreur de configuration,Anomalie,Normal,-0.3452139925829185,0
+Erreur de configuration,Anomalie,Normal,-0.34811857029357485,0
+Erreur de configuration,Anomalie,Normal,-0.35338919240894356,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.34126307999990324,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.3434716500751215,0
+Erreur de configuration,Anomalie,Normal,-0.387718071361202,0
+Erreur de configuration,Anomalie,Normal,-0.38734636968937736,0
+Erreur de configuration,Anomalie,Normal,-0.3976945595599524,0
+Erreur de configuration,Anomalie,Normal,-0.36784488379516395,0
+Erreur de configuration,Anomalie,Normal,-0.4010397243796279,0
+Erreur de configuration,Anomalie,Normal,-0.37005485619454437,0
+Erreur de configuration,Anomalie,Normal,-0.40689984366753734,0
+Erreur de configuration,Anomalie,Normal,-0.391422047603949,0
+Erreur de configuration,Anomalie,Normal,-0.4246638111382879,0
+Erreur de configuration,Anomalie,Normal,-0.45367964721305,0
+Erreur de configuration,Anomalie,Normal,-0.4204045149134168,0
+Erreur de configuration,Anomalie,Normal,-0.4191889784882327,0
+Erreur de configuration,Anomalie,Normal,-0.3698190967868435,0
+Erreur de configuration,Anomalie,Normal,-0.40594465973699845,0
+Erreur de configuration,Anomalie,Normal,-0.4375696910938982,0
+Erreur de configuration,Anomalie,Normal,-0.3410291984472244,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.34414610859038297,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.34623883549942,0
+Erreur de configuration,Anomalie,Normal,-0.3458130621346835,0
+Erreur de configuration,Anomalie,Normal,-0.3452139925829185,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.3526368327940229,0
+Erreur de configuration,Anomalie,Normal,-0.38482568405704537,0
+Erreur de configuration,Anomalie,Normal,-0.4014468508939713,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.35470219599511593,0
+Erreur de configuration,Anomalie,Normal,-0.35815481537353644,0
+Erreur de configuration,Anomalie,Normal,-0.4017623352776165,0
+Erreur de configuration,Anomalie,Normal,-0.36203759015776665,0
+Erreur de configuration,Anomalie,Normal,-0.42059021922169443,0
+Erreur de configuration,Anomalie,Normal,-0.4304130356311783,0
+Erreur de configuration,Anomalie,Normal,-0.3684447451478309,0
+Erreur de configuration,Anomalie,Normal,-0.3545295346170479,0
+Erreur de configuration,Anomalie,Normal,-0.4342215712597579,0
+Erreur de configuration,Anomalie,Normal,-0.3802683484196686,0
+Erreur de configuration,Anomalie,Normal,-0.3828521031768587,0
+Erreur de configuration,Anomalie,Normal,-0.38356219682003095,0
+Erreur de configuration,Anomalie,Normal,-0.4387593078299626,0
+Erreur de configuration,Anomalie,Normal,-0.4026987209953161,0
+Erreur de configuration,Anomalie,Normal,-0.4319560102925589,0
+Erreur de configuration,Anomalie,Normal,-0.34623725235381286,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.34142615305452173,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.38876446147839194,0
+Erreur de configuration,Anomalie,Normal,-0.3925812781786934,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.35542581637210174,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.3846012235144214,0
+Erreur de configuration,Anomalie,Normal,-0.37093348654587055,0
+Erreur de configuration,Anomalie,Normal,-0.3950151164937442,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.4008682870504993,0
+Erreur de configuration,Anomalie,Normal,-0.36345835863140713,0
+Erreur de configuration,Anomalie,Normal,-0.37790115622720866,0
+Erreur de configuration,Anomalie,Normal,-0.3849399429376016,0
+Erreur de configuration,Anomalie,Normal,-0.38189111435580714,0
+Erreur de configuration,Anomalie,Normal,-0.3935763262455401,0
+Erreur de configuration,Anomalie,Normal,-0.4158369921091933,0
+Erreur de configuration,Anomalie,Normal,-0.43018097412578304,0
+Erreur de configuration,Anomalie,Normal,-0.4031898974182912,0
+Erreur de configuration,Anomalie,Normal,-0.3885914443539595,0
+Erreur de configuration,Anomalie,Normal,-0.3873012420116104,0
+Erreur de configuration,Anomalie,Normal,-0.45087275766833645,0
+Erreur de configuration,Anomalie,Anomalie,-0.5196710631200806,1
+Erreur de configuration,Anomalie,Normal,-0.4043941007820079,0
+Erreur de configuration,Anomalie,Normal,-0.3563899706508476,0
+Erreur de configuration,Anomalie,Normal,-0.33989300205049355,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.3452139925829185,0
+Erreur de configuration,Anomalie,Normal,-0.3412459369349883,0
+Erreur de configuration,Anomalie,Normal,-0.3490207514867674,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.38129860562316253,0
+Erreur de configuration,Anomalie,Normal,-0.36946810012339343,0
+Erreur de configuration,Anomalie,Normal,-0.38102326317742924,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.34690268606556846,0
+Erreur de configuration,Anomalie,Normal,-0.3508506036955795,0
+Erreur de configuration,Anomalie,Normal,-0.33851296977688866,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.3461375067494825,0
+Erreur de configuration,Anomalie,Normal,-0.36745868538500015,0
+Erreur de configuration,Anomalie,Normal,-0.3544589441087707,0
+Erreur de configuration,Anomalie,Normal,-0.3680152510384926,0
+Erreur de configuration,Anomalie,Normal,-0.3537716138431455,0
+Erreur de configuration,Anomalie,Normal,-0.36791427919419833,0
+Erreur de configuration,Anomalie,Normal,-0.35495212147345795,0
+Erreur de configuration,Anomalie,Normal,-0.36630712248974723,0
+Erreur de configuration,Anomalie,Normal,-0.474574763695512,0
+Erreur de configuration,Anomalie,Normal,-0.38296809164249934,0
+Erreur de configuration,Anomalie,Normal,-0.3986891300000995,0
+Erreur de configuration,Anomalie,Normal,-0.36503995664831307,0
+Erreur de configuration,Anomalie,Normal,-0.36843527082934846,0
+Erreur de configuration,Anomalie,Normal,-0.46906074378243745,0
+Erreur de configuration,Anomalie,Normal,-0.34747836386856384,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.3397837015839723,0
+Erreur de configuration,Anomalie,Normal,-0.3897783100730896,0
+Erreur de configuration,Anomalie,Normal,-0.388136121636303,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.349982043350287,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3414791497638608,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3467333302743256,0
+Erreur de configuration,Anomalie,Normal,-0.35542581637210174,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3467333302743256,0
+Erreur de configuration,Anomalie,Normal,-0.35884067282981347,0
+Erreur de configuration,Anomalie,Normal,-0.38796149829184623,0
+Erreur de configuration,Anomalie,Normal,-0.40236962084631117,0
+Erreur de configuration,Anomalie,Normal,-0.36613585507507035,0
+Erreur de configuration,Anomalie,Normal,-0.35414450531023917,0
+Erreur de configuration,Anomalie,Normal,-0.3601984137140587,0
+Erreur de configuration,Anomalie,Normal,-0.3816818649593722,0
+Erreur de configuration,Anomalie,Normal,-0.3857547378771118,0
+Erreur de configuration,Anomalie,Normal,-0.37801482485669513,0
+Erreur de configuration,Anomalie,Normal,-0.38380202021249976,0
+Erreur de configuration,Anomalie,Normal,-0.44350126100342957,0
+Erreur de configuration,Anomalie,Normal,-0.4264605556331189,0
+Erreur de configuration,Anomalie,Anomalie,-0.5304699038097154,1
+Erreur de configuration,Anomalie,Normal,-0.34621251655512736,0
+Erreur de configuration,Anomalie,Normal,-0.3461375067494825,0
+Erreur de configuration,Anomalie,Normal,-0.3430047637102031,0
+Erreur de configuration,Anomalie,Normal,-0.34715438845595825,0
+Erreur de configuration,Anomalie,Normal,-0.349982043350287,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3458130621346835,0
+Erreur de configuration,Anomalie,Normal,-0.34655795689715263,0
+Erreur de configuration,Anomalie,Normal,-0.35113513137371855,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3465483110775615,0
+Erreur de configuration,Anomalie,Normal,-0.3459033940569355,0
+Erreur de configuration,Anomalie,Normal,-0.349982043350287,0
+Erreur de configuration,Anomalie,Normal,-0.38935159351200904,0
+Erreur de configuration,Anomalie,Normal,-0.3861626149991289,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3885152749095016,0
+Erreur de configuration,Anomalie,Normal,-0.35441029817395003,0
+Erreur de configuration,Anomalie,Normal,-0.34790518519532554,0
+Erreur de configuration,Anomalie,Normal,-0.3564805262636254,0
+Erreur de configuration,Anomalie,Normal,-0.3889562615831877,0
+Erreur de configuration,Anomalie,Normal,-0.3918493528082975,0
+Erreur de configuration,Anomalie,Normal,-0.395050329068257,0
+Erreur de configuration,Anomalie,Normal,-0.43353804246667627,0
+Erreur de configuration,Anomalie,Normal,-0.3714907475358687,0
+Erreur de configuration,Anomalie,Normal,-0.3612443079064821,0
+Erreur de configuration,Anomalie,Normal,-0.4084369750416393,0
+Erreur de configuration,Anomalie,Normal,-0.3644436541987537,0
+Erreur de configuration,Anomalie,Anomalie,-0.5045135979803809,1
+Erreur de configuration,Anomalie,Normal,-0.34053559450299903,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.34316388356459904,0
+Erreur de configuration,Anomalie,Normal,-0.34728316907086554,0
+Erreur de configuration,Anomalie,Normal,-0.35004859156750356,0
+Erreur de configuration,Anomalie,Normal,-0.3467333302743256,0
+Erreur de configuration,Anomalie,Normal,-0.3452139925829185,0
+Erreur de configuration,Anomalie,Normal,-0.39207313669570903,0
+Erreur de configuration,Anomalie,Normal,-0.4119691370172262,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.34631392053443355,0
+Erreur de configuration,Anomalie,Normal,-0.3490207514867674,0
+Erreur de configuration,Anomalie,Normal,-0.35424882979319916,0
+Erreur de configuration,Anomalie,Normal,-0.33989300205049355,0
+Erreur de configuration,Anomalie,Normal,-0.3478471224141915,0
+Erreur de configuration,Anomalie,Normal,-0.38215267621563365,0
+Erreur de configuration,Anomalie,Normal,-0.36995490596809777,0
+Erreur de configuration,Anomalie,Normal,-0.39923692615633527,0
+Erreur de configuration,Anomalie,Normal,-0.3710195947349985,0
+Erreur de configuration,Anomalie,Normal,-0.3552413390595772,0
+Erreur de configuration,Anomalie,Normal,-0.3801624507993012,0
+Erreur de configuration,Anomalie,Normal,-0.3683857098820265,0
+Erreur de configuration,Anomalie,Normal,-0.3662177816286638,0
+Erreur de configuration,Anomalie,Normal,-0.3861306758353057,0
+Erreur de configuration,Anomalie,Normal,-0.3902042980417199,0
+Erreur de configuration,Anomalie,Normal,-0.37423443044029986,0
+Erreur de configuration,Anomalie,Normal,-0.3805409365094747,0
+Erreur de configuration,Anomalie,Normal,-0.4295811479916768,0
+Erreur de configuration,Anomalie,Anomalie,-0.5018267427816795,1
+Erreur de configuration,Anomalie,Normal,-0.34621251655512736,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.3855786472629173,0
+Erreur de configuration,Anomalie,Normal,-0.38685133608199074,0
+Erreur de configuration,Anomalie,Normal,-0.34147689738952325,0
+Erreur de configuration,Anomalie,Normal,-0.3526863178539282,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3458130621346835,0
+Erreur de configuration,Anomalie,Normal,-0.38685133608199074,0
+Erreur de configuration,Anomalie,Normal,-0.3886421575651662,0
+Erreur de configuration,Anomalie,Normal,-0.3436597307277421,0
+Erreur de configuration,Anomalie,Normal,-0.33943112983466767,0
+Erreur de configuration,Anomalie,Normal,-0.3541593512659712,0
+Erreur de configuration,Anomalie,Normal,-0.349982043350287,0
+Erreur de configuration,Anomalie,Normal,-0.34655795689715263,0
+Erreur de configuration,Anomalie,Normal,-0.3590092775006417,0
+Erreur de configuration,Anomalie,Normal,-0.3541931147626484,0
+Erreur de configuration,Anomalie,Normal,-0.35063208859204226,0
+Erreur de configuration,Anomalie,Normal,-0.3808479740222991,0
+Erreur de configuration,Anomalie,Normal,-0.35370486738161794,0
+Erreur de configuration,Anomalie,Normal,-0.3541931147626484,0
+Erreur de configuration,Anomalie,Normal,-0.4243330526983481,0
+Erreur de configuration,Anomalie,Normal,-0.3672450340659318,0
+Erreur de configuration,Anomalie,Normal,-0.42851138083759094,0
+Erreur de configuration,Anomalie,Normal,-0.46013803638003303,0
+Erreur de configuration,Anomalie,Normal,-0.3583979339843889,0
+Erreur de configuration,Anomalie,Anomalie,-0.5954725290860857,1
+Erreur de configuration,Anomalie,Normal,-0.38883920044524284,0
+Erreur de configuration,Anomalie,Normal,-0.34666805583826577,0
+Erreur de configuration,Anomalie,Normal,-0.3409381516449342,0
+Erreur de configuration,Anomalie,Normal,-0.3455321694034679,0
+Erreur de configuration,Anomalie,Normal,-0.3637869749479961,0
+Normal,Normal,Anomalie,-0.5184008764236623,1
+Normal,Normal,Anomalie,-0.5954725290860857,1
+Normal,Normal,Anomalie,-0.5895038583272015,1
+Normal,Normal,Anomalie,-0.5474435460778911,1
+Normal,Normal,Normal,-0.39913578863263893,0
+Normal,Normal,Anomalie,-0.5348287597246796,1
+Normal,Normal,Anomalie,-0.5782725969815988,1
+Normal,Normal,Normal,-0.39678759411865044,0
+Normal,Normal,Anomalie,-0.5545175788917349,1
+Normal,Normal,Normal,-0.45791738419383937,0
+Normal,Normal,Normal,-0.44666764911354323,0
+Normal,Normal,Normal,-0.4471661042225743,0
+Normal,Normal,Normal,-0.4044648689408446,0
+Normal,Normal,Normal,-0.4258964342901561,0
+Normal,Normal,Normal,-0.39070674587531773,0
+Normal,Normal,Normal,-0.39377926516029726,0
+Normal,Normal,Normal,-0.37191701482535877,0
+Normal,Normal,Normal,-0.46961783243577454,0
+Normal,Normal,Normal,-0.49824110381437026,0
+Normal,Normal,Normal,-0.4208641578254826,0
+Normal,Normal,Anomalie,-0.5214092633051629,1
+Normal,Normal,Normal,-0.43339990534371703,0
+Normal,Normal,Normal,-0.38353369859788167,0
+Normal,Normal,Normal,-0.48667057512534495,0
+Normal,Normal,Normal,-0.3879524611624486,0
+Normal,Normal,Normal,-0.4186830804578497,0
+Normal,Normal,Normal,-0.479100202920427,0
+Normal,Normal,Normal,-0.47337585745215804,0
+Normal,Normal,Anomalie,-0.6289945248836138,1
+Normal,Normal,Normal,-0.41314447106355695,0
+Normal,Normal,Normal,-0.3975264467765878,0
+Normal,Normal,Normal,-0.4573239447438413,0
+Normal,Normal,Anomalie,-0.5015559606874057,1
+Normal,Normal,Normal,-0.48193722169976266,0
+Normal,Normal,Normal,-0.43097417618551115,0
+Normal,Normal,Anomalie,-0.567094897831023,1
+Normal,Normal,Normal,-0.38665683951673985,0
+Normal,Normal,Normal,-0.39195690558215557,0
+Normal,Normal,Normal,-0.39076552683326204,0
+Normal,Normal,Normal,-0.4016165361980225,0
+Normal,Normal,Normal,-0.4054227453499186,0
+Normal,Normal,Anomalie,-0.5449163627424132,1
+Normal,Normal,Normal,-0.4842348488884818,0
+Normal,Normal,Normal,-0.47045939729746533,0
+Normal,Normal,Anomalie,-0.5223961396177883,1
+Normal,Normal,Anomalie,-0.5151894213250701,1
+Normal,Normal,Anomalie,-0.5786075188227789,1
+Normal,Normal,Normal,-0.4180329452455579,0
+Normal,Normal,Normal,-0.45618257377943366,0
+Normal,Normal,Normal,-0.4282276224442376,0
+Normal,Normal,Normal,-0.47929333168385785,0
+Normal,Normal,Anomalie,-0.5134157706139204,1
+Normal,Normal,Normal,-0.3847775320336991,0
+Normal,Normal,Normal,-0.3824314792520999,0
+Normal,Normal,Normal,-0.393749374020561,0
+Normal,Normal,Normal,-0.37902073323654073,0
+Normal,Normal,Normal,-0.4080843420601935,0
+Normal,Normal,Normal,-0.4102204679697408,0
+Normal,Normal,Anomalie,-0.5387207384818214,1
+Normal,Normal,Anomalie,-0.5479182166454121,1
+Normal,Normal,Normal,-0.4039067418654444,0
+Normal,Normal,Normal,-0.3958296243095062,0
+Normal,Normal,Normal,-0.3845528828710775,0
+Normal,Normal,Normal,-0.40969773830063844,0
+Normal,Normal,Normal,-0.4112506023997503,0
+Normal,Normal,Normal,-0.4284694062547511,0
+Normal,Normal,Normal,-0.41216968318116204,0
+Normal,Normal,Anomalie,-0.5054195654636595,1
+Normal,Normal,Normal,-0.40103410065155404,0
+Normal,Normal,Normal,-0.4161914536367368,0
+Normal,Normal,Anomalie,-0.5786463700869677,1
+Normal,Normal,Normal,-0.49303123382827424,0
+Normal,Normal,Normal,-0.38718889671757023,0
+Normal,Normal,Normal,-0.38408973459388823,0
+Normal,Normal,Normal,-0.43297989336802767,0
+Normal,Normal,Normal,-0.46937818821199934,0
+Normal,Normal,Normal,-0.39994960021192894,0
+Normal,Normal,Normal,-0.3888746470832929,0
+Normal,Normal,Normal,-0.48360308426865745,0
+Normal,Normal,Normal,-0.4337139455313997,0
+Normal,Normal,Normal,-0.3890541297067118,0
+Normal,Normal,Normal,-0.38326454788327863,0
+Normal,Normal,Normal,-0.38677436745117466,0
+Normal,Normal,Normal,-0.39669641622604124,0
+Normal,Normal,Normal,-0.44579072884651183,0
+Normal,Normal,Normal,-0.4834430681249727,0
+Normal,Normal,Anomalie,-0.5083553164706885,1
+Normal,Normal,Normal,-0.4331591173547862,0
+Normal,Normal,Normal,-0.3760233050782473,0
+Normal,Normal,Normal,-0.3813516951797719,0
+Normal,Normal,Normal,-0.38370681809898777,0
+Normal,Normal,Normal,-0.4175135572080581,0
+Normal,Normal,Normal,-0.4150789412240756,0
+Normal,Normal,Normal,-0.41029764180975825,0
+Normal,Normal,Normal,-0.43708529908491583,0
+Normal,Normal,Normal,-0.4777354309355634,0
+Normal,Normal,Normal,-0.4692339765696552,0
+Normal,Normal,Anomalie,-0.5083730393783072,1
+Normal,Normal,Normal,-0.4461393683696648,0
+Normal,Normal,Normal,-0.3960361858445287,0
+Normal,Normal,Normal,-0.4123558774473536,0
+Normal,Normal,Anomalie,-0.5202810612381873,1
+Normal,Normal,Anomalie,-0.5300416808185591,1
+Normal,Normal,Normal,-0.3928551955954508,0
+Normal,Normal,Normal,-0.4672482859509983,0
+Normal,Normal,Normal,-0.49677970334070715,0
+Normal,Normal,Normal,-0.39287251036789783,0
+Normal,Normal,Normal,-0.46330869422565335,0
+Normal,Normal,Anomalie,-0.5800698994629317,1
+Normal,Normal,Normal,-0.4454193070481314,0
+Normal,Normal,Normal,-0.4042215623058391,0
+Normal,Normal,Normal,-0.39248850218449294,0
+Normal,Normal,Normal,-0.3858678802868006,0
+Normal,Normal,Normal,-0.394825057063277,0
+Normal,Normal,Normal,-0.4213176546507249,0
+Normal,Normal,Anomalie,-0.5137409221722665,1
+Normal,Normal,Normal,-0.45189091247466595,0
+Normal,Normal,Normal,-0.3885733455265708,0
+Normal,Normal,Normal,-0.3897260684758348,0
+Normal,Normal,Normal,-0.3923437571945762,0
+Normal,Normal,Normal,-0.49933986729956686,0
+Normal,Normal,Normal,-0.3824902892979101,0
+Normal,Normal,Normal,-0.3914772216559825,0
+Normal,Normal,Normal,-0.37958259716233117,0
+Normal,Normal,Normal,-0.41052051105460535,0
+Normal,Normal,Anomalie,-0.5357692140689876,1
+Normal,Normal,Normal,-0.4309801659027374,0
+Normal,Normal,Normal,-0.39972194846989245,0
+Normal,Normal,Normal,-0.3970140143627833,0
+Normal,Normal,Normal,-0.39185329751628956,0
+Normal,Normal,Normal,-0.3866900807790784,0
+Normal,Normal,Normal,-0.43242990542327103,0
+Normal,Normal,Normal,-0.4954199408972257,0
+Normal,Normal,Normal,-0.4976353319640875,0
+Normal,Normal,Anomalie,-0.5240604969132849,1
+Normal,Normal,Anomalie,-0.543866211326345,1
+Normal,Normal,Anomalie,-0.5601915658479591,1
+Normal,Normal,Anomalie,-0.5198779340815968,1
+Normal,Normal,Anomalie,-0.5027283619769511,1
+Normal,Normal,Normal,-0.3908072492947778,0
+Normal,Normal,Normal,-0.41135913820918274,0
+Normal,Normal,Normal,-0.40771646432762565,0
+Normal,Normal,Normal,-0.38739508674824774,0
+Normal,Normal,Anomalie,-0.5120386877754164,1
+Normal,Normal,Anomalie,-0.5438367443981847,1
+Normal,Normal,Normal,-0.38986836965084687,0
+Normal,Normal,Normal,-0.38188981824312956,0
+Normal,Normal,Normal,-0.4227933549112481,0
+Normal,Normal,Anomalie,-0.5075079885638031,1
+Normal,Normal,Normal,-0.38818292932435106,0
+Normal,Normal,Normal,-0.40170663928353906,0
+Normal,Normal,Normal,-0.377666934094073,0
+Normal,Normal,Normal,-0.3909698270918632,0
+Normal,Normal,Normal,-0.3720800268943736,0
+Normal,Normal,Normal,-0.4042137343000758,0
+Normal,Normal,Normal,-0.40086435345674554,0
+Normal,Normal,Normal,-0.41236091120845486,0
+Normal,Normal,Normal,-0.40573766294299246,0
+Normal,Normal,Normal,-0.39399299491987216,0
+Normal,Normal,Normal,-0.42359256475288387,0
+Normal,Normal,Normal,-0.3944417961998091,0
+Normal,Normal,Normal,-0.39223160279771363,0
+Normal,Normal,Normal,-0.40291739563260176,0
+Normal,Normal,Normal,-0.39799362584485026,0
+Normal,Normal,Normal,-0.4238054283862162,0
+Normal,Normal,Normal,-0.4489076756714264,0
+Normal,Normal,Anomalie,-0.5457464070851389,1
+Normal,Normal,Anomalie,-0.6067141438922963,1
+Normal,Normal,Anomalie,-0.5041544391110402,1
+Normal,Normal,Normal,-0.38489506659950695,0
+Normal,Normal,Normal,-0.39886780214044343,0
+Normal,Normal,Normal,-0.3975664848066485,0
+Normal,Normal,Normal,-0.3886077170038452,0
+Normal,Normal,Anomalie,-0.619537229449616,1
+Normal,Normal,Normal,-0.43909811021091744,0
+Normal,Normal,Normal,-0.4160110522566452,0
+Normal,Normal,Normal,-0.43468104344530245,0
+Normal,Normal,Normal,-0.3936297777081945,0
+Normal,Normal,Normal,-0.3743639997364852,0
+Normal,Normal,Normal,-0.3834248379092129,0
+Normal,Normal,Normal,-0.39551891646002174,0
+Normal,Normal,Normal,-0.4046412532140914,0
+Normal,Normal,Normal,-0.3967416682530059,0
+Normal,Normal,Normal,-0.4088079403120966,0
+Normal,Normal,Normal,-0.41477943140081447,0
+Normal,Normal,Normal,-0.3813711461067153,0
+Normal,Normal,Normal,-0.41702916685437696,0
+Normal,Normal,Normal,-0.38866544252524193,0
+Normal,Normal,Normal,-0.39340983656861434,0
+Normal,Normal,Normal,-0.3873139919630348,0
+Normal,Normal,Normal,-0.4009888563202479,0
+Normal,Normal,Normal,-0.4049743839312021,0
+Normal,Normal,Normal,-0.40644761971502186,0
+Normal,Normal,Normal,-0.4374129658414532,0
+Normal,Normal,Normal,-0.4079862604480168,0
+Normal,Normal,Normal,-0.4096630947394782,0
+Normal,Normal,Normal,-0.41201734256839434,0
+Normal,Normal,Normal,-0.4130711519967049,0
+Normal,Normal,Normal,-0.4188485036622787,0
+Normal,Normal,Normal,-0.44244712900153604,0
+Normal,Normal,Normal,-0.4988243042684301,0
+Normal,Normal,Normal,-0.49904610995574344,0
+Normal,Normal,Normal,-0.4925200257056142,0
+Normal,Normal,Normal,-0.3910711928007257,0
+Normal,Normal,Normal,-0.3768475448782182,0
+Normal,Normal,Normal,-0.398541268355059,0
+Normal,Normal,Normal,-0.3994435527738888,0
+Normal,Normal,Normal,-0.40837857315884407,0
+Normal,Normal,Normal,-0.42226733560390434,0
+Normal,Normal,Normal,-0.4474979325431147,0
+Normal,Normal,Normal,-0.43895472967084875,0
+Normal,Normal,Normal,-0.42320515386960805,0
+Normal,Normal,Normal,-0.4384478560761706,0
+Normal,Normal,Normal,-0.3959072869989398,0
+Normal,Normal,Normal,-0.39041043851070495,0
+Normal,Normal,Normal,-0.4071108907663213,0
+Normal,Normal,Normal,-0.3855192753411761,0
+Normal,Normal,Normal,-0.398842392353464,0
+Normal,Normal,Normal,-0.3799648962793832,0
+Normal,Normal,Normal,-0.3913351444907083,0
+Normal,Normal,Normal,-0.39743073154957326,0
+Normal,Normal,Normal,-0.4200249360565104,0
+Normal,Normal,Anomalie,-0.5308710292326385,1
+Normal,Normal,Normal,-0.3903810979980469,0
+Normal,Normal,Normal,-0.40240728320765823,0
+Normal,Normal,Normal,-0.38959908512658287,0
+Normal,Normal,Normal,-0.43649646948791965,0
+Normal,Normal,Normal,-0.39434872950658917,0
+Normal,Normal,Normal,-0.39143731733095244,0
+Normal,Normal,Normal,-0.3718168951565062,0
+Normal,Normal,Normal,-0.37617799239952265,0
+Normal,Normal,Normal,-0.3841249850608444,0
+Normal,Normal,Anomalie,-0.520751126243595,1
+Normal,Normal,Normal,-0.3999962313979849,0
+Normal,Normal,Normal,-0.40219824938947907,0
+Normal,Normal,Normal,-0.3715244542513072,0
+Normal,Normal,Normal,-0.4235561361349129,0
+Normal,Normal,Normal,-0.38528126445429556,0
+Normal,Normal,Normal,-0.3958639859360793,0
+Normal,Normal,Normal,-0.3954251850613163,0
+Normal,Normal,Normal,-0.3992757615321253,0
+Normal,Normal,Normal,-0.3823239864345059,0
+Normal,Normal,Normal,-0.3882906027956147,0
+Normal,Normal,Normal,-0.3948466177404319,0
+Normal,Normal,Normal,-0.41444109061631806,0
+Normal,Normal,Normal,-0.3838512306743567,0
+Normal,Normal,Normal,-0.41251682281954055,0
+Normal,Normal,Normal,-0.41498243129835477,0
+Normal,Normal,Normal,-0.3817272938625371,0
+Normal,Normal,Normal,-0.3952602084247819,0
+Normal,Normal,Normal,-0.3956811272573044,0
+Normal,Normal,Normal,-0.39286096799983367,0
+Normal,Normal,Normal,-0.4375937354731728,0
+Normal,Normal,Normal,-0.46639696795780095,0
+Normal,Normal,Normal,-0.40602084859314735,0
+Normal,Normal,Normal,-0.3965465628067113,0
+Normal,Normal,Normal,-0.48767368042232717,0
+Normal,Normal,Normal,-0.4151712665182885,0
+Normal,Normal,Normal,-0.4002564879311369,0
+Normal,Normal,Normal,-0.372418315594466,0
+Normal,Normal,Normal,-0.394009002065277,0
+Normal,Normal,Normal,-0.4636424043822844,0
+Normal,Normal,Normal,-0.44008919519249556,0
+Normal,Normal,Normal,-0.38704238362692334,0
+Normal,Normal,Normal,-0.3919966080026112,0
+Normal,Normal,Normal,-0.39654353721587793,0
+Normal,Normal,Normal,-0.41854315254002716,0
+Normal,Normal,Normal,-0.4296646911554591,0
+Normal,Normal,Normal,-0.39261048968821466,0
+Normal,Normal,Normal,-0.38860094199852047,0
+Normal,Normal,Normal,-0.3892887459302959,0
+Normal,Normal,Normal,-0.39353656492224776,0
+Normal,Normal,Normal,-0.4664508023842166,0
+Perte de performance,Anomalie,Anomalie,-0.5203594010261001,1
+Perte de performance,Anomalie,Anomalie,-0.5710671082385247,1
+Perte de performance,Anomalie,Normal,-0.4809546353852406,0
+Perte de performance,Anomalie,Anomalie,-0.5252209009181478,1
+Perte de performance,Anomalie,Normal,-0.40301268536263085,0
+Perte de performance,Anomalie,Normal,-0.41862202860479886,0
+Perte de performance,Anomalie,Normal,-0.4169233039234563,0
+Perte de performance,Anomalie,Normal,-0.4683081023041342,0
+Perte de performance,Anomalie,Normal,-0.4399364169615172,0
+Perte de performance,Anomalie,Normal,-0.4348492397081987,0
+Perte de performance,Anomalie,Normal,-0.45560078350201133,0
+Perte de performance,Anomalie,Anomalie,-0.5185738386712435,1
+Perte de performance,Anomalie,Normal,-0.44349780211596496,0
+Perte de performance,Anomalie,Normal,-0.41660055782738015,0
+Perte de performance,Anomalie,Normal,-0.474270020598912,0
+Perte de performance,Anomalie,Normal,-0.4812880123285852,0
+Perte de performance,Anomalie,Normal,-0.4551817204078694,0
+Perte de performance,Anomalie,Normal,-0.46305312140566796,0
+Perte de performance,Anomalie,Normal,-0.4823571556684713,0
+Perte de performance,Anomalie,Normal,-0.48317918152477896,0
+Perte de performance,Anomalie,Anomalie,-0.5461124528501041,1
+Perte de performance,Anomalie,Normal,-0.4431189083110147,0
+Perte de performance,Anomalie,Normal,-0.4120570385769856,0
+Perte de performance,Anomalie,Normal,-0.42892554954468237,0
+Perte de performance,Anomalie,Normal,-0.4423390782613178,0
+Perte de performance,Anomalie,Normal,-0.43155495436219565,0
+Perte de performance,Anomalie,Normal,-0.4258363188665412,0
+Perte de performance,Anomalie,Normal,-0.452115039378043,0
+Perte de performance,Anomalie,Normal,-0.4979730641799194,0
+Perte de performance,Anomalie,Anomalie,-0.5127615851808134,1
+Perte de performance,Anomalie,Normal,-0.4972693859816019,0
+Perte de performance,Anomalie,Anomalie,-0.5217941735521731,1
+Perte de performance,Anomalie,Normal,-0.46861107690229187,0
+Perte de performance,Anomalie,Normal,-0.48552555246424905,0
+Perte de performance,Anomalie,Normal,-0.4291464473700878,0
+Perte de performance,Anomalie,Normal,-0.4200517798703893,0
+Perte de performance,Anomalie,Normal,-0.49841943441678305,0
+Perte de performance,Anomalie,Normal,-0.4374634236038664,0
+Perte de performance,Anomalie,Normal,-0.3917962514529066,0
+Perte de performance,Anomalie,Normal,-0.40587620051950113,0
+Perte de performance,Anomalie,Normal,-0.4090138124385802,0
+Perte de performance,Anomalie,Normal,-0.4278313235820253,0
+Perte de performance,Anomalie,Anomalie,-0.5701915235002681,1
+Perte de performance,Anomalie,Anomalie,-0.5475483099139135,1
+Perte de performance,Anomalie,Normal,-0.49862512890847543,0
+Perte de performance,Anomalie,Normal,-0.45519901335754603,0
+Perte de performance,Anomalie,Normal,-0.46278090469687055,0
+Perte de performance,Anomalie,Anomalie,-0.5593822656279016,1
+Perte de performance,Anomalie,Normal,-0.4059916946826762,0
+Perte de performance,Anomalie,Normal,-0.43441560571363735,0
+Perte de performance,Anomalie,Normal,-0.43704334724727695,0
+Perte de performance,Anomalie,Normal,-0.4093605734220753,0
+Perte de performance,Anomalie,Normal,-0.41119824965121815,0
+Perte de performance,Anomalie,Normal,-0.4531699039813888,0
+Perte de performance,Anomalie,Normal,-0.44382056013785426,0
+Perte de performance,Anomalie,Normal,-0.4842191188862156,0
+Perte de performance,Anomalie,Anomalie,-0.5101659159735207,1
+Perte de performance,Anomalie,Normal,-0.4636710066759526,0
+Perte de performance,Anomalie,Normal,-0.44609860425560705,0
+Perte de performance,Anomalie,Normal,-0.4696682772314897,0
+Perte de performance,Anomalie,Anomalie,-0.5334369755868339,1
+Perte de performance,Anomalie,Normal,-0.4248027716958954,0
+Perte de performance,Anomalie,Normal,-0.471707979487006,0
+Perte de performance,Anomalie,Normal,-0.4736731563702184,0
+Perte de performance,Anomalie,Normal,-0.43399683283492096,0
+Perte de performance,Anomalie,Normal,-0.442621977593058,0
+Perte de performance,Anomalie,Normal,-0.4824087104339817,0
+Perte de performance,Anomalie,Normal,-0.4939983738634186,0
+Perte de performance,Anomalie,Normal,-0.47422228308198433,0
+Perte de performance,Anomalie,Normal,-0.46742168399934825,0
+Perte de performance,Anomalie,Normal,-0.45228032137513163,0
+Perte de performance,Anomalie,Anomalie,-0.5338747103971572,1
+Perte de performance,Anomalie,Anomalie,-0.5166192193950081,1
+Perte de performance,Anomalie,Normal,-0.4885066476348571,0
+Perte de performance,Anomalie,Normal,-0.4272959884827556,0
+Perte de performance,Anomalie,Normal,-0.4484435220562761,0
+Perte de performance,Anomalie,Normal,-0.4411232307739811,0
+Perte de performance,Anomalie,Normal,-0.4259295784010796,0
+Perte de performance,Anomalie,Normal,-0.4941906667515278,0
+Perte de performance,Anomalie,Normal,-0.47964493669140573,0
+Perte de performance,Anomalie,Normal,-0.4708001555699353,0
+Perte de performance,Anomalie,Normal,-0.45928826663282174,0
+Perte de performance,Anomalie,Normal,-0.476691033078143,0
+Perte de performance,Anomalie,Normal,-0.4668252106519404,0
+Perte de performance,Anomalie,Anomalie,-0.5488825533591827,1
+Perte de performance,Anomalie,Normal,-0.42702180979702087,0
+Perte de performance,Anomalie,Normal,-0.403614992038406,0
+Perte de performance,Anomalie,Normal,-0.46891277133272913,0
+Perte de performance,Anomalie,Normal,-0.4308984748089035,0
+Perte de performance,Anomalie,Normal,-0.42955465943479276,0
+Perte de performance,Anomalie,Normal,-0.4639145105087767,0
+Perte de performance,Anomalie,Normal,-0.48857583054810655,0
+Perte de performance,Anomalie,Normal,-0.4937146319244986,0
+Perte de performance,Anomalie,Normal,-0.4833852534120924,0
+Perte de performance,Anomalie,Normal,-0.4622320433724857,0
+Perte de performance,Anomalie,Normal,-0.4862312627374696,0
+Perte de performance,Anomalie,Normal,-0.45365540169210855,0
+Perte de performance,Anomalie,Anomalie,-0.5456705390521184,1
+Perte de performance,Anomalie,Normal,-0.40275185524492435,0
+Perte de performance,Anomalie,Normal,-0.44040865154535064,0
+Perte de performance,Anomalie,Normal,-0.4418619024284914,0
+Perte de performance,Anomalie,Normal,-0.43447677382963507,0
+Perte de performance,Anomalie,Normal,-0.41818605306276285,0
+Perte de performance,Anomalie,Normal,-0.44334275831876324,0
+Perte de performance,Anomalie,Anomalie,-0.5660820227106876,1
+Perte de performance,Anomalie,Normal,-0.4590854703238151,0
+Perte de performance,Anomalie,Anomalie,-0.580089445628236,1
+Perte de performance,Anomalie,Anomalie,-0.5406292333054529,1
+Perte de performance,Anomalie,Normal,-0.4782310262109344,0
+Perte de performance,Anomalie,Normal,-0.4796308579859451,0
+Perte de performance,Anomalie,Normal,-0.4557683146516292,0
+Perte de performance,Anomalie,Normal,-0.4995561513304808,0
+Perte de performance,Anomalie,Anomalie,-0.503491430293053,1
+Perte de performance,Anomalie,Normal,-0.46624318192777786,0
+Perte de performance,Anomalie,Normal,-0.41552542635499434,0
+Perte de performance,Anomalie,Normal,-0.419492568570239,0
+Perte de performance,Anomalie,Normal,-0.45812058694897023,0
+Perte de performance,Anomalie,Normal,-0.42925062042274115,0
+Perte de performance,Anomalie,Normal,-0.46788481551295646,0
+Perte de performance,Anomalie,Normal,-0.4611859462703775,0
+Perte de performance,Anomalie,Normal,-0.4618378746319819,0
+Perte de performance,Anomalie,Normal,-0.4710646173784452,0
+Perte de performance,Anomalie,Normal,-0.45932570954787266,0
+Perte de performance,Anomalie,Normal,-0.469524559041716,0
+Perte de performance,Anomalie,Normal,-0.45752493520430554,0
+Perte de performance,Anomalie,Normal,-0.4669957687150449,0
+Perte de performance,Anomalie,Anomalie,-0.5141788350147344,1
+Perte de performance,Anomalie,Normal,-0.4182685453269002,0
+Perte de performance,Anomalie,Normal,-0.43436050115467,0
+Perte de performance,Anomalie,Normal,-0.42084449606509505,0
+Perte de performance,Anomalie,Normal,-0.4107139351643242,0
+Perte de performance,Anomalie,Normal,-0.4114783010812026,0
+Perte de performance,Anomalie,Normal,-0.41136618747057796,0
+Perte de performance,Anomalie,Normal,-0.43477856048533414,0
+Perte de performance,Anomalie,Normal,-0.4358243796280421,0
+Perte de performance,Anomalie,Normal,-0.4438382659239929,0
+Perte de performance,Anomalie,Normal,-0.45746999390016957,0
+Perte de performance,Anomalie,Normal,-0.4675357355316634,0
+Perte de performance,Anomalie,Normal,-0.4888900687677028,0
+Perte de performance,Anomalie,Anomalie,-0.5186970412605818,1
+Perte de performance,Anomalie,Normal,-0.4519528583722353,0
+Perte de performance,Anomalie,Normal,-0.46955199659361807,0
+Perte de performance,Anomalie,Anomalie,-0.5066313528587457,1
+Perte de performance,Anomalie,Normal,-0.46034671234965846,0
+Perte de performance,Anomalie,Anomalie,-0.5108220393086382,1
+Perte de performance,Anomalie,Normal,-0.4668417383224745,0
+Perte de performance,Anomalie,Normal,-0.4874950378615084,0
+Perte de performance,Anomalie,Normal,-0.4507552384453082,0
+Perte de performance,Anomalie,Anomalie,-0.5014325433495282,1
+Perte de performance,Anomalie,Normal,-0.4570977462843318,0
+Perte de performance,Anomalie,Normal,-0.4658297265364527,0
+Perte de performance,Anomalie,Normal,-0.486979296867245,0
+Perte de performance,Anomalie,Normal,-0.4770506609584886,0
+Perte de performance,Anomalie,Normal,-0.4659091838327058,0
+Perte de performance,Anomalie,Normal,-0.4862137843814595,0
+Perte de performance,Anomalie,Normal,-0.4579089013809141,0
+Perte de performance,Anomalie,Normal,-0.4810078010363932,0
+Perte de performance,Anomalie,Normal,-0.4791142644927612,0
+Perte de performance,Anomalie,Anomalie,-0.5061130807767662,1
+Perte de performance,Anomalie,Normal,-0.4219776120586475,0
+Perte de performance,Anomalie,Normal,-0.43105061817666196,0
+Perte de performance,Anomalie,Normal,-0.42911664902243346,0
+Perte de performance,Anomalie,Normal,-0.4210165396284181,0
+Perte de performance,Anomalie,Normal,-0.4436472631075404,0
+Perte de performance,Anomalie,Normal,-0.3994081264015801,0
+Perte de performance,Anomalie,Normal,-0.39472997897381995,0
+Perte de performance,Anomalie,Normal,-0.4782124402129541,0
+Perte de performance,Anomalie,Normal,-0.42733271976494375,0
+Perte de performance,Anomalie,Normal,-0.4016002080719587,0
+Perte de performance,Anomalie,Normal,-0.4261955678802519,0
+Perte de performance,Anomalie,Normal,-0.46221839708153356,0
+Perte de performance,Anomalie,Anomalie,-0.563029123273161,1
+Perte de performance,Anomalie,Normal,-0.43882302764650116,0
+Perte de performance,Anomalie,Normal,-0.46006455280373376,0
+Perte de performance,Anomalie,Normal,-0.46294441453856666,0
+Perte de performance,Anomalie,Normal,-0.4621024199469337,0
+Perte de performance,Anomalie,Normal,-0.486800745405087,0
+Perte de performance,Anomalie,Normal,-0.46130302109213833,0
+Perte de performance,Anomalie,Normal,-0.46868004610158476,0
+Perte de performance,Anomalie,Normal,-0.4467729907112271,0
+Perte de performance,Anomalie,Anomalie,-0.5248071309478644,1
+Perte de performance,Anomalie,Normal,-0.44120953792818085,0
+Perte de performance,Anomalie,Normal,-0.3992238601791465,0
+Perte de performance,Anomalie,Normal,-0.4396079701168033,0
+Perte de performance,Anomalie,Normal,-0.4296774208244242,0
+Perte de performance,Anomalie,Normal,-0.4135160259630464,0
+Perte de performance,Anomalie,Normal,-0.4049961508973682,0
+Perte de performance,Anomalie,Normal,-0.4176318955204235,0
+Perte de performance,Anomalie,Normal,-0.42082998520849035,0
+Perte de performance,Anomalie,Normal,-0.4638253059961722,0
+Perte de performance,Anomalie,Anomalie,-0.5133807883278881,1
+Perte de performance,Anomalie,Normal,-0.460944686197195,0
+Perte de performance,Anomalie,Normal,-0.47449999174144764,0
+Perte de performance,Anomalie,Normal,-0.4604522270204668,0
+Perte de performance,Anomalie,Normal,-0.47687380302050153,0
+Perte de performance,Anomalie,Normal,-0.48460966342104134,0
+Perte de performance,Anomalie,Normal,-0.4625750701639925,0
+Perte de performance,Anomalie,Normal,-0.47668131372266614,0
+Perte de performance,Anomalie,Anomalie,-0.5862606131471703,1
+Perte de performance,Anomalie,Normal,-0.4302694903516646,0
+Perte de performance,Anomalie,Normal,-0.46928458343724666,0
+Perte de performance,Anomalie,Normal,-0.4636861325602303,0
+Perte de performance,Anomalie,Anomalie,-0.549477080688169,1
+Perte de performance,Anomalie,Normal,-0.4836893871505481,0
+Perte de performance,Anomalie,Normal,-0.4488345635580719,0
+Perte de performance,Anomalie,Normal,-0.473990948972726,0
+Perte de performance,Anomalie,Normal,-0.459149038662905,0
+Perte de performance,Anomalie,Anomalie,-0.5313822970444989,1
+Perte de performance,Anomalie,Normal,-0.4737643304009139,0
+Perte de performance,Anomalie,Normal,-0.48257583013445554,0
+Perte de performance,Anomalie,Normal,-0.42341442763865195,0
+Perte de performance,Anomalie,Normal,-0.41040258408221986,0
